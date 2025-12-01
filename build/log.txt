@@ -1,5 +1,0 @@
-[BATTLE] Bear Bear1 killed Werewolf Wolf1
-[BATTLE] Bear Bear1 killed Werewolf Wolf1
-[BATTLE] Bandit Bandit1 killed Bear Bear1
-[BATTLE] Bear Bear2 killed Werewolf Wolf2
-[BATTLE] Bandit Bandit2 killed Bear Bear2

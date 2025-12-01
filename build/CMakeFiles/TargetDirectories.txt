@@ -1,5 +1,0 @@
-/mnt/c/Users/vanya/OOP2025LAB6/build/CMakeFiles/dungeon_editor.dir
-/mnt/c/Users/vanya/OOP2025LAB6/build/CMakeFiles/tests.dir
-/mnt/c/Users/vanya/OOP2025LAB6/build/CMakeFiles/test.dir
-/mnt/c/Users/vanya/OOP2025LAB6/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/vanya/OOP2025LAB6/build/CMakeFiles/rebuild_cache.dir

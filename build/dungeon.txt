@@ -1,6 +1,0 @@
-Bear Bear1 10 10
-Werewolf Wolf1 15 15
-Bandit Bandit1 20 20
-Bear Bear2 100 100
-Werewolf Wolf2 200 200
-Bandit Bandit2 300 300
